@@ -1,1 +1,1 @@
-Assignments for the course Neuroscience of Decision Making (NDM) Monsoon 2024.
+Assignments for the course Neuroscience of Decision Making (NDM) for Monsoon 2024.
